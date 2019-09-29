@@ -1,3 +1,15 @@
 # Description of your program (part 7)
+How to count the number of words in a document:
+1. Open/get access to the document
+2. Start counting from 0 (i.e. count=0)
+3. Read all the words one by one, and every time we read a word (i.e. characters separated by a space),
+add 1 to the current count (count=count+1)
+4. Keep counting till the last word of the document, then the count is the number of words in the document
 
 # Reflection on writing your program (part 8)
+At first I felt this exercise was a little bit hard since I have not done programming or something like this
+for a while. But after I tried breaking down the problem into steps, it became easier and I was able to be more
+precise as well.
+
+In HCDE 310, I wish to learn Python and be more familiar with APIs. And as a designer, I also wish to learn how
+to use the programming skills we learned for design work.
